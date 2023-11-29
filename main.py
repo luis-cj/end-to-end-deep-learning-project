@@ -1,5 +1,5 @@
-from src.cnnClassifier.logger import logging
+from cnnClassifier import logger
 
 
 
-logging.info("Welcome to my custom log")
+logger.info("Welcome to my custom log")

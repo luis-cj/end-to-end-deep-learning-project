@@ -6,7 +6,7 @@ dvc
 notebook
 seaborn
 python-box==6.0.2
-pyYAML
+pyYAML # to read yaml files with Python
 tqdm
 ensure==1.0.2
 joblib
@@ -15,4 +15,4 @@ scipy
 Flask
 Flask-Cors
 
--e .
+# -e .

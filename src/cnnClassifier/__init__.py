@@ -1,3 +1,11 @@
+# logging module is defined here instead in a separate module
+# just for simplicity!
+
+# It's very important to have a logging module that helps you debug your
+# code in a real situation, e.g. running the app in the cloud, where
+# there is no terminal, and downloading the logs file can help you
+# debug your code
+
 import os
 import sys
 import logging
